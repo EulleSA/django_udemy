@@ -1,4 +1,4 @@
-#!/home/eulle/django2/.env/bin/python
+#!/home/eulle/Documents/back-end/django_udemy/.env/bin/python3
 # EASY-INSTALL-ENTRY-SCRIPT: 'gunicorn==20.1.0','console_scripts','gunicorn'
 __requires__ = 'gunicorn==20.1.0'
 import re
